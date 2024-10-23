@@ -57,7 +57,7 @@
      <li>Experience in speaking and presenting projects.</li>
    </ul>
   </p>
-  <p><b>Mailbox: - -> </b><a href="https://t.me/shalashov9"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="24px"></a></p>
+  <p><b>Mailbox: </b><a href=""><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="24px"></a></p>
 </div>
 
 <div id="info">
